@@ -32,8 +32,8 @@ Versão mobile
 
 ### Links
 
-- Solução: [Solução](https://your-solution-url.com)
-- Live Site: [Live site](https://your-live-site-url.com)
+- Solução: [Solução](https://www.frontendmentor.io/solutions/huddle-landing-page-com-flex-e-grid-dHPAEOwC6u)
+- Live Site: [Live site]([https://your-live-site-url.com](https://teoniuvilarinho.github.io/huddle-landing-page/))
 
 ## Meu processo
 
